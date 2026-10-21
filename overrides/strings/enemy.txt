@@ -1,0 +1,12 @@
+# Overridden string files work in a unique way!
+# Instead of overriding the whole file, they only override the specified strings.
+:brutalist:
+	:name:
+		Bootawist
+
+	:phonebook:
+		   C C |  |
+	| (    |  |
+| <_ |  |
+		| _/ |  |
+		
